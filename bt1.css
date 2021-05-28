@@ -1,0 +1,23 @@
+div{
+height: 70px;
+}
+   .height{
+       display: inline-block;
+       height: 40px;
+       width: 300px;
+       border-radius: 10px;
+      
+     
+       
+   }
+   button{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    border: 0px;
+   }
+   h1{
+       color:darkblue;
+   }
