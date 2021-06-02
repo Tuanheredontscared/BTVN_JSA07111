@@ -1,0 +1,19 @@
+#frist {
+  text-align: center;
+}
+hr {
+  width: 70px;
+  border-color: orange;
+}
+#p1 {
+  padding-right: 80px;
+}
+.sec {
+  width: 262px;
+  padding-top: 110px;
+  display: inline-block;
+  padding-right: 20px;
+}
+#th {
+  padding-left: 220px;
+}
